@@ -5,6 +5,7 @@ import { Button, Navbar, NavbarBrand,Nav,NavItem,Collapse,NavLink,NavbarToggler,
 import cont from './cont.png';
 import { useState } from "react";
 import ReactDOM from "react-dom";
+import React from 'react';
 const Signup = () => {
     const [inputs, setInputs] = useState({});
 

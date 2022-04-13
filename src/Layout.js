@@ -50,7 +50,7 @@ const Layout = () => {
          </Col>
         </Collapse>
         <DropdownButton id="dropdown-basic-button">
-        <Dropdown.Item href="#/action-3">Petscape Shorts</Dropdown.Item>
+        <Dropdown.Item href="#/action-3">Ptox Shorts</Dropdown.Item>
   <Dropdown.Item href="/Signup"> Signup </Dropdown.Item>
   <Dropdown.Item href="#/action-3">Log out</Dropdown.Item>
 </DropdownButton>

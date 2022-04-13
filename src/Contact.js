@@ -4,6 +4,7 @@ import { Button, Navbar, NavbarBrand,Nav,NavItem,Collapse,NavLink,NavbarToggler,
     DropdownMenu } from 'reactstrap';
 import cont from './cont.png';
 import { useState } from "react";
+import React from 'react';
 import ReactDOM from "react-dom";
 const Contact = () => {
     const [inputs, setInputs] = useState({});
